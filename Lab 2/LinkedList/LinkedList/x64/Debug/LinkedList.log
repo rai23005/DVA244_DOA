@@ -1,0 +1,4 @@
+﻿  list.c
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 2\LinkedList\LinkedList\list.c(15,2): warning C4047: '!=': 'const Data' differs in levels of indirection from 'void *'
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 2\LinkedList\LinkedList\list.c(55,2): warning C4047: '!=': 'const Data' differs in levels of indirection from 'void *'
+  LinkedList.vcxproj -> C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 2\LinkedList\x64\Debug\LinkedList.exe
