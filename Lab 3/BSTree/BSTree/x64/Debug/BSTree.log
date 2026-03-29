@@ -1,0 +1,3 @@
+﻿  BSTree.c
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 3\BSTree\BSTree\BSTree.c(388,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  BSTree.vcxproj -> C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 3\BSTree\x64\Debug\BSTree.exe
