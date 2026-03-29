@@ -1,0 +1,57 @@
+---------------------------------------------
+--------         Bubble sort        ---------
+---------------------------------------------
+
+Unsorted: 
+  10 element:    69 comparisons,     6 swaps
+  20 element:   401 comparisons,   113 swaps
+  40 element:  1635 comparisons,   474 swaps
+
+Forwardsorted: 
+  10 element:    21 comparisons,     0 swaps
+  20 element:    41 comparisons,     0 swaps
+  40 element:    81 comparisons,     0 swaps
+
+Backsorted: 
+  10 element:   109 comparisons,    45 swaps
+  20 element:   419 comparisons,   190 swaps
+  40 element:  1639 comparisons,   780 swaps
+
+---------------------------------------------
+--------       Selection sort       ---------
+---------------------------------------------
+
+Unsorted: 
+  10 element:   127 comparisons,     9 swaps
+  20 element:   457 comparisons,    19 swaps
+  40 element:  1717 comparisons,    39 swaps
+
+Forwardsorted: 
+  10 element:   127 comparisons,     9 swaps
+  20 element:   457 comparisons,    19 swaps
+  40 element:  1717 comparisons,    39 swaps
+
+Backsorted: 
+  10 element:   127 comparisons,     9 swaps
+  20 element:   457 comparisons,    19 swaps
+  40 element:  1717 comparisons,    39 swaps
+
+---------------------------------------------
+--------         Quick sort         ---------
+---------------------------------------------
+
+Unsorted: 
+  10 element:    49 comparisons,    30 swaps
+  20 element:   104 comparisons,    46 swaps
+  40 element:   316 comparisons,   123 swaps
+
+Forwardsorted: 
+  10 element:    73 comparisons,    54 swaps
+  20 element:   248 comparisons,   209 swaps
+  40 element:   898 comparisons,   819 swaps
+
+Backsorted: 
+  10 element:    73 comparisons,    29 swaps
+  20 element:   248 comparisons,   109 swaps
+  40 element:   898 comparisons,   419 swaps
+

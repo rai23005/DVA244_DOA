@@ -1,0 +1,7 @@
+﻿  Array.c
+  main.c
+  SortingAlgorithms.c
+  Statistics.c
+  Generating Code...
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 5\SortingAlgorithms\SortingAlgorithms\SortingAlgorithms.c(164,22): warning C4018: '<=': signed/unsigned mismatch
+  SortingAlgorithms.vcxproj -> C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 5\SortingAlgorithms\x64\Debug\SortingAlgorithms.exe
