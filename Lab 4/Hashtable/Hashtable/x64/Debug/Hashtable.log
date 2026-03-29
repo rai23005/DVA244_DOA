@@ -1,0 +1,7 @@
+﻿  test_HashTable.c
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 4\Hashtable\Hashtable\test_HashTable.c(171,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 4\Hashtable\Hashtable\test_HashTable.c(140,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 4\Hashtable\Hashtable\test_HashTable.c(141,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 4\Hashtable\Hashtable\test_HashTable.c(143,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 4\Hashtable\Hashtable\test_HashTable.c(144,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Hashtable.vcxproj -> C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 4\Hashtable\x64\Debug\Hashtable.exe

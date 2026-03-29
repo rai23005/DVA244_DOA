@@ -1,0 +1,3 @@
+För liten hastabel blir  det betydligt fler krockar än med en större tabbel. Dock kommer det kräva mer minne under körningen och kanske inte bästa lösningen allt för stor minnes åtgång
+
+I test körningen skulle jag säga att en tabell med storlek på  102 var acceptabel antal krockar på snitt 23.  Tabell storlek på 50 hade 516 krockar , tabell på 100 hade 516 krockar , tabell på 101 hade 53. Men efter 102 så sjunker  antal krokar väldigt lite.  
