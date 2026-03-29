@@ -1,0 +1,5 @@
+﻿  dstring.c
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 1\dstring.c(10,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 1\dstring.c(43,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 1\dstring.c(44,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  dstring.vcxproj -> C:\Users\Rasmus\OneDrive - Mälardalens universitet\DVA244 - Datastrukturer, algoritmer och programkonstruktion med C\Labbar\Lab 1\dstring\x64\Debug\dstring.exe
